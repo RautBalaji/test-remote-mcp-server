@@ -6,7 +6,7 @@ readme = "README.md"
 authors = [
     { name = "BalajiRaut", email = "balaji.s@pushpak.si" }
 ]
-requires-python = ">=3.10"
+requires-python = ">=3.12"
 dependencies = [
     "fastmcp>=3.4.7",
 ]
